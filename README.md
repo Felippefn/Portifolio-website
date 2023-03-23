@@ -5,11 +5,25 @@ My website for portifolio and contacts
 ### _Project: website to show projects._
 - Website to deploy projects, API's and more...
 - obs: The website may have some changes.
+
+
+> Project made with
+- ExpressJs
+- Bootstrap
 <!--
 Com o cursor do mouse:
 -->
-![website](https://cdn.discordapp.com/attachments/415958635802263552/1006707551091564584/unknown.png)
+![website](https://cdn.discordapp.com/attachments/415958635802263552/1088558523706773584/Screenshot_2023-03-23_152438.png)
 
+
+
+<h3>On the website, you can find a lot of projects to interact os just look, for example:</h3>
+<h4><strong>Password generator</strong></h4>
+
+![website](https://cdn.discordapp.com/attachments/415958635802263552/1088559443815440545/image.png)
+>Page made with
+- Bootstrap (RESPONSIVE)
+- JS (pure, basic logics)
 
 ```
 http://191.101.0.3:5050/

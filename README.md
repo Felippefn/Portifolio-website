@@ -1,5 +1,5 @@
 # Portifolio-website
-[felippefn.dev](https://felippefn.dev/) http://191.101.0.3/
+[felippefn.com](https://felippefn.com/) http://191.101.0.3/
 My website for portifolio and contacts
 
 ### _Project: website to show projects._
@@ -26,7 +26,7 @@ Com o cursor do mouse:
 - JS (pure, basic logics)
 
 ```
-felippefn.dev http://191.101.0.3/
+felippefn.com http://191.101.0.3/
 ```
 <!--## _How the dashboard works_
 
